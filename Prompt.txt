@@ -1,0 +1,27 @@
+Act as an SEO expert.
+
+Create a blog post on: [skincare tips]
+
+Include:
+
+1. SEO Title
+
+
+2. Meta description
+
+
+3. H1, H2, H3 headings
+
+
+4. 800–1000 word blog
+
+
+5. Keywords
+
+
+6. Internal linking ideas
+
+
+
+Make it SEO-friendly and easy to read.
+Give me code
